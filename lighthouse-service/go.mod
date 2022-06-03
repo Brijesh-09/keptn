@@ -8,7 +8,7 @@ require (
 	github.com/google/uuid v1.3.0
 	github.com/kelseyhightower/envconfig v1.4.0
 	github.com/keptn/go-utils v0.16.1
-	github.com/keptn/keptn/cp-common v0.0.0-20220602110035-92d59919c878
+	github.com/keptn/keptn/cp-common v0.0.0-20220603085103-d82e52d220dd
 	github.com/keptn/keptn/cp-connector v0.0.0-20220602110035-92d59919c878
 	github.com/nats-io/nats-server/v2 v2.8.4
 	github.com/pkg/errors v0.9.1
